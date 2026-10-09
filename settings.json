@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "UchihaASITACHI.aternos.me",
+    "port": 15863,
     "version": "",
     "try-creative": false
   },
